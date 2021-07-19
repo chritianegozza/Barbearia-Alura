@@ -27,12 +27,16 @@ HTML e CSS
 A aplicação roda em qualquer navegador e se adapta para usar em mobile e 
 computadores e tablets. 
 
+Endereço do site :https://barbearianovahair.netlify.app/
 
 Desenvolvedora:
+
 
 Christiane Gozza
 
 Caso tenham alguma dúvida pode entrar em contato comigo, estou a disposição. 
+
+
 
 ![image](https://user-images.githubusercontent.com/72118415/123503991-d4154180-d62c-11eb-9188-d60dd5177db3.png)
 
